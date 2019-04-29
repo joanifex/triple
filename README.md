@@ -1,2 +1,0 @@
-# triple
-Created with CodeSandbox
